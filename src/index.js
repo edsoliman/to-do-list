@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import ToDoListApp from './App';
 
+// awesome unrelated comment
 
 ReactDOM.render(<ToDoListApp />, document.getElementById('root'));
 
